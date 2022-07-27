@@ -86,3 +86,13 @@ input:focus{
 	color: gray;
 	text-decoration: line-through;
 }
+@media (min-width: 320px) {
+	#container{
+		height: 500px;
+		width: 350px;
+	}
+	ul{
+		font-size: 20px;
+	}
+	
+}
